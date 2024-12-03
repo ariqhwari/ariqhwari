@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">Driven developer with a knack for optimizing workflows and streamlining data-driven insights. Extensive experience in DevOps practices, back-end development, and database management (MongoDB). Fluent in C/C++, PHP, JavaScript, and frameworks like Next.js and Tailwind CSS, crafting user-friendly interfaces with speed and accuracy.</p>
+<p align="center">Currently Learning DevOps and Back-end development.</p>
 
 ###
 
@@ -27,8 +27,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ariqhwari&hide_title=true&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&disable_animations=false&theme=shades-of-purple&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ariqhwari&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=shades-of-purple&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ariqhwari&theme=dark" alt="ariqhwari" /></p>
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ariqhwari&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=shades-of-purple&hide_border=false&order=2" height="150" alt="languages graph"  /> -->
 </div>
 
 ###
